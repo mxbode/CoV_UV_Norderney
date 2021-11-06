@@ -21,7 +21,7 @@ a diagram showing the relationship between corona numbers in germany and the dai
 
 to export corona cases/deaths data to an easy csv file
 
-`SELECT date, avg(uvi) FROM `uvi` group BY `date` order by date;`
+`SELECT date, avg(uvi) FROM 'uvi' group BY 'date' order by date;`
 
 to export an avg value for all UV-Index data
 
