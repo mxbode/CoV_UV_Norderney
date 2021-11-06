@@ -15,6 +15,10 @@ a diagram showing the relationship between corona numbers in germany and the dai
 # Diagram
 ![Diagram Image](https://github.com/mxbode/CoV_UV_Norderney/blob/main/img/image.png?raw=true)
 
+
+
+![Diagram Image](https://github.com/mxbode/CoV_UV_Norderney/blob/main/img/vitamin_d.png?raw=true)
+
 # Merge Data Sources
 
 `cd corona_data; php extract_germany.php`
